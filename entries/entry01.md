@@ -1,7 +1,9 @@
 # Entry 1
 ##### 11/08/22
 
-Deciding on what to make my freedom project about was a difficult task to accomplish. The first thing I did to find my topic was go to a job site with many different jobs and options to choose from. After a couple of minutes of searching I came across some jobs that I had an interest in, them being Agriculture (farming), Cooking (food & recipes), and Construction (building & creating). Now came the harder part, deciding between the three. I wanted to focus on something that the world needs and can be improved in. Cooking was a strong choice for me but I realized that before cooking comes agriculture. After debunking the pros and cons of Agriculture and Construction I noticed that construction is a harder, hands-on job, leaving space for improvement. Since then I have stuck with construction and finding ways to improve the building and creating.
+##### Deciding My Freedom Project Tool and Topic
+
+Deciding on a topic and tool for a freedom project is very complex and open to different ideas. Hello, my name is James Hernandez and this year in SEP 11 (Software Engineering Programe: Grade 11) we are brought together and focusing on one main yearly project. Although we do not work on this yearly project in class everyday, all of our learning and ideas come together for this big project! I am very excited and the first thing that we have to do in order to get us started, is chosing a topic important to me indicidually and chosing a tool ()
 
 [Next](entry02.md)
 
