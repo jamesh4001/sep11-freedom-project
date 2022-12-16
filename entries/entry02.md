@@ -1,7 +1,10 @@
 # Entry 2
-##### X/X/XX
+##### 12/12/22
 
-Text
+##### Tinkering and Processing My Freedom Project Tool
+
+Hello, welcome back to my blog entry whereI express my ideas while learning my tool and during the process of me learning and practicing in order to reach my final goal of completing a Freedom Project. As of right now i am learning and processing my tool understanding 
+
 
 [Previous](entry01.md) | [Next](entry03.md)
 
